@@ -1,6 +1,6 @@
-theme: jekyll-theme-minimal
-title: Talonkinkade's homepage
-description: Bookmark this to keep an eye on my project updates!
+#theme: jekyll-theme-minimal
+#title: Talonkinkade's homepage
+#description: Bookmark this to keep an eye on my project updates!
 
 # Talonkinkade Here (Christian for the homies!) 👋
 
